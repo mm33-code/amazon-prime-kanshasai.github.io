@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mm33-code.github.io/amazon-prime-kanshasai.github.io/sitemap.xml
